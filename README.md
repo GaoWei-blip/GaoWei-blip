@@ -5,14 +5,6 @@
 - 💬 Ask me about anything related to CV/Java/Python.
 - 📫 How to reach me: gw79231436055@163.com
 
-
-![](https://github-readme-stats.vercel.app/api?username=1135063213&show_icons=true&theme=transparent)
-
-![Visitor Count](https://profile-counter.glitch.me/1135063213/count.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1135063213&layout=compact&theme=tokyonight)
-
-
 <!--
 **1135063213/1135063213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
