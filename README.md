@@ -1,9 +1,11 @@
-### Hi there 👋
+### 欢迎来到我的Github 👋
+自我介绍
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to CV/Java/Python.
-- 📫 How to reach me: gw79231436055@163.com
+- 🔭 当前职位：GIS算法工程师.
+- 💬 当前研究领域：CV、时序预测
+- 🌱 感兴趣领域：生成式、半监督、图像算法、时序预测.
+- 💬 技能：开发（JAVA\Python\C++）、传统算法（OpenCV）、机器学习、深度学习算法
+- 📫 邮箱: gw79231436055@163.com
 
 <!--
 **1135063213/1135063213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
